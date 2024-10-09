@@ -91,6 +91,6 @@ document.getElementById('bookForm').addEventListener('submit', (e) => {
 });
 
 // Add some sample books to the library for testing
-addBookToLibrary(new Book("The Hobbit", "J.R.R. Tolkien", 310, true));
-addBookToLibrary(new Book("1984", "George Orwell", 328, false));
-addBookToLibrary(new Book("To Kill a Mockingbird", "Harper Lee", 281, true));
+addBookToLibrary(new Book("American Kingpin", "Nick Bilton", 368, true));
+addBookToLibrary(new Book("Molly's Game", "Molly Bloom", 272, false));
+addBookToLibrary(new Book("Never Split the Difference", "Chris Voss", 288, true));
